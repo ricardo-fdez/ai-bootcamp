@@ -1,0 +1,273 @@
+[
+  {
+    "id": "lnk-1994-ez",
+    "emojis": "🦁👑🌅",
+    "answers": ["the lion king", "lion king"],
+    "year": 1994,
+    "genre": ["Animation", "Adventure"],
+    "difficulty": "Easy",
+    "explanation": "Lion + crown = king; sunrise opening scene from Disney's classic."
+  },
+  {
+    "id": "ttnc-1997-ez",
+    "emojis": "🚢🧊💔🎻",
+    "answers": ["titanic"],
+    "year": 1997,
+    "genre": ["Romance", "Drama"],
+    "difficulty": "Easy",
+    "explanation": "Ship hits iceberg; heartbreak; iconic violin scene as it sinks."
+  },
+  {
+    "id": "bttf-1985-ez",
+    "emojis": "🕰️🚗⚡",
+    "answers": ["back to the future"],
+    "year": 1985,
+    "genre": ["Sci-Fi", "Adventure"],
+    "difficulty": "Easy",
+    "explanation": "Time travel in a DeLorean car powered by lightning."
+  },
+  {
+    "id": "lotr-2001-md",
+    "emojis": "🧙‍♂️💍🌋",
+    "answers": ["the lord of the rings", "lord of the rings", "lotr"],
+    "year": 2001,
+    "genre": ["Fantasy", "Adventure"],
+    "difficulty": "Medium",
+    "explanation": "Wizard (Gandalf) + ring to destroy in Mount Doom volcano."
+  },
+  {
+    "id": "jaws-1975-ez",
+    "emojis": "🦈🏖️😱",
+    "answers": ["jaws"],
+    "year": 1975,
+    "genre": ["Thriller", "Horror"],
+    "difficulty": "Easy",
+    "explanation": "Killer shark terrorizing a beach community."
+  },
+  {
+    "id": "mtrx-1999-md",
+    "emojis": "👓💊🔴🔵💻",
+    "answers": ["the matrix", "matrix"],
+    "year": 1999,
+    "genre": ["Sci-Fi", "Action"],
+    "difficulty": "Medium",
+    "explanation": "Sunglasses, red pill/blue pill choice, computer simulation reality."
+  },
+  {
+    "id": "incpt-2010-md",
+    "emojis": "💤🌀🏙️⏰",
+    "answers": ["inception"],
+    "year": 2010,
+    "genre": ["Sci-Fi", "Thriller"],
+    "difficulty": "Medium",
+    "explanation": "Dream within a dream; city folding; time manipulation."
+  },
+  {
+    "id": "nemo-2003-ez",
+    "emojis": "🐠🔎🌊",
+    "answers": ["finding nemo", "nemo"],
+    "year": 2003,
+    "genre": ["Animation", "Adventure"],
+    "difficulty": "Easy",
+    "explanation": "Finding a clownfish (Nemo) lost in the ocean."
+  },
+  {
+    "id": "up-2009-ez",
+    "emojis": "🎈🏠👴👦",
+    "answers": ["up"],
+    "year": 2009,
+    "genre": ["Animation", "Adventure"],
+    "difficulty": "Easy",
+    "explanation": "Balloons lifting a house with old man and young boy."
+  },
+  {
+    "id": "mmfr-2015-md",
+    "emojis": "🚗🔥🏜️⛽",
+    "answers": ["mad max fury road", "mad max", "fury road"],
+    "year": 2015,
+    "genre": ["Action", "Adventure"],
+    "difficulty": "Medium",
+    "explanation": "High-speed car chase through desert wasteland fighting for fuel."
+  },
+  {
+    "id": "frzn-2013-ez",
+    "emojis": "❄️👸🎤👭",
+    "answers": ["frozen"],
+    "year": 2013,
+    "genre": ["Animation", "Musical"],
+    "difficulty": "Easy",
+    "explanation": "Ice powers, princess, singing 'Let It Go', sisterly love."
+  },
+  {
+    "id": "jrsc-1993-md",
+    "emojis": "🦕🦖🔬🏝️",
+    "answers": ["jurassic park"],
+    "year": 1993,
+    "genre": ["Adventure", "Sci-Fi"],
+    "difficulty": "Medium",
+    "explanation": "Scientists bring dinosaurs back to life on an island theme park."
+  },
+  {
+    "id": "et-1982-ez",
+    "emojis": "👽🚲🌕🏠",
+    "answers": ["e.t.", "et", "e.t. the extra-terrestrial"],
+    "year": 1982,
+    "genre": ["Sci-Fi", "Family"],
+    "difficulty": "Easy",
+    "explanation": "Alien befriends boy; iconic bike flying across moon scene."
+  },
+  {
+    "id": "frst-1994-ez",
+    "emojis": "🍫🪶🏃‍♂️🎖️",
+    "answers": ["forrest gump"],
+    "year": 1994,
+    "genre": ["Drama", "Romance"],
+    "difficulty": "Easy",
+    "explanation": "Chocolates, feather, running, military medal - 'Life is like a box of chocolates'."
+  },
+  {
+    "id": "hp1-2001-ez",
+    "emojis": "⚡👓🧹🏰",
+    "answers": ["harry potter", "harry potter and the sorcerers stone", "harry potter and the philosophers stone"],
+    "year": 2001,
+    "genre": ["Fantasy", "Adventure"],
+    "difficulty": "Easy",
+    "explanation": "Lightning scar, glasses, broomstick flying, Hogwarts castle."
+  },
+  {
+    "id": "avng-2012-md",
+    "emojis": "🔨⚡🛡️💚👁️🏹",
+    "answers": ["the avengers", "avengers"],
+    "year": 2012,
+    "genre": ["Action", "Superhero"],
+    "difficulty": "Medium",
+    "explanation": "Thor's hammer, Captain America's shield, Hulk green, Hawkeye's bow."
+  },
+  {
+    "id": "shrk-2001-ez",
+    "emojis": "👹🐲🏰👸",
+    "answers": ["shrek"],
+    "year": 2001,
+    "genre": ["Animation", "Comedy"],
+    "difficulty": "Easy",
+    "explanation": "Ogre rescues princess from dragon-guarded castle."
+  },
+  {
+    "id": "glad-2000-hd",
+    "emojis": "⚔️🏛️👊🦁",
+    "answers": ["gladiator"],
+    "year": 2000,
+    "genre": ["Action", "Drama"],
+    "difficulty": "Hard",
+    "explanation": "Roman Colosseum battles, 'Are you not entertained?'"
+  },
+  {
+    "id": "intst-2014-hd",
+    "emojis": "🚀🌌⏰🌽🕳️",
+    "answers": ["interstellar"],
+    "year": 2014,
+    "genre": ["Sci-Fi", "Drama"],
+    "difficulty": "Hard",
+    "explanation": "Space travel through wormhole, time dilation, saving Earth from crop blight."
+  },
+  {
+    "id": "prsm-2018-hd",
+    "emojis": "🎤⭐💊🎸🎭",
+    "answers": ["a star is born", "star is born"],
+    "year": 2018,
+    "genre": ["Drama", "Romance"],
+    "difficulty": "Hard",
+    "explanation": "Rockstar discovers unknown singer; fame rises, tragedy follows."
+  },
+  {
+    "id": "godft-1972-md",
+    "emojis": "🤵🔫🍊🐴",
+    "answers": ["the godfather", "godfather"],
+    "year": 1972,
+    "genre": ["Crime", "Drama"],
+    "difficulty": "Medium",
+    "explanation": "Mafia don, gun violence, orange symbolism, horse head scene."
+  },
+  {
+    "id": "coco-2017-ez",
+    "emojis": "🎸💀🌺🇲🇽",
+    "answers": ["coco"],
+    "year": 2017,
+    "genre": ["Animation", "Family"],
+    "difficulty": "Easy",
+    "explanation": "Guitar, Day of the Dead (Día de Muertos), Mexican celebration."
+  },
+  {
+    "id": "fight-1999-hd",
+    "emojis": "👊🧼💥🏢",
+    "answers": ["fight club"],
+    "year": 1999,
+    "genre": ["Drama", "Thriller"],
+    "difficulty": "Hard",
+    "explanation": "Underground fighting, soap making, building explosion finale."
+  },
+  {
+    "id": "spdr-2002-ez",
+    "emojis": "🕷️🕸️🏙️💪",
+    "answers": ["spider-man", "spiderman"],
+    "year": 2002,
+    "genre": ["Action", "Superhero"],
+    "difficulty": "Easy",
+    "explanation": "Spider powers, web-slinging through city."
+  },
+  {
+    "id": "toyst-1995-ez",
+    "emojis": "🤠🚀👽🎲",
+    "answers": ["toy story"],
+    "year": 1995,
+    "genre": ["Animation", "Family"],
+    "difficulty": "Easy",
+    "explanation": "Cowboy (Woody) and spaceman (Buzz Lightyear) toys come alive."
+  },
+  {
+    "id": "snl-2004-hd",
+    "emojis": "🥁🎶😡🎹",
+    "answers": ["whiplash"],
+    "year": 2014,
+    "genre": ["Drama", "Music"],
+    "difficulty": "Hard",
+    "explanation": "Intense drumming student pushed by abusive music teacher."
+  },
+  {
+    "id": "blkp-2018-md",
+    "emojis": "🐾👑🌍💎",
+    "answers": ["black panther"],
+    "year": 2018,
+    "genre": ["Action", "Superhero"],
+    "difficulty": "Medium",
+    "explanation": "Wakanda king, advanced African nation, vibranium."
+  },
+  {
+    "id": "hung-2012-md",
+    "emojis": "🏹🔥🍞🐦",
+    "answers": ["the hunger games", "hunger games"],
+    "year": 2012,
+    "genre": ["Action", "Sci-Fi"],
+    "difficulty": "Medium",
+    "explanation": "Katniss with bow, girl on fire, bread, mockingjay bird."
+  },
+  {
+    "id": "dpol-2016-md",
+    "emojis": "🦸‍♂️❤️🍑🔪💥",
+    "answers": ["deadpool"],
+    "year": 2016,
+    "genre": ["Action", "Comedy"],
+    "difficulty": "Medium",
+    "explanation": "Mercenary superhero with crude humor and maximum effort."
+  },
+  {
+    "id": "moan-2016-ez",
+    "emojis": "🌊🏝️⛵👸",
+    "answers": ["moana"],
+    "year": 2016,
+    "genre": ["Animation", "Adventure"],
+    "difficulty": "Easy",
+    "explanation": "Ocean voyage, island, sailing, Polynesian princess."
+  }
+]
+
