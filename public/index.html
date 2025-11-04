@@ -559,7 +559,14 @@
                             
                             {/* Action Buttons */}
                             <div className="space-y-3 mb-6">
-                                {gameState !== 'revealed' ? (
+                                {gameState === 'correct' || gameState === 'revealed' ? (
+                                    <button
+                                        onClick={handleNext}
+                                        className="w-full px-6 py-4 bg-retro-yellow text-black text-xl font-pixel rounded-lg hover:bg-yellow-600 transition pulse-glow"
+                                    >
+                                        ➡️ Next Puzzle
+                                    </button>
+                                ) : (
                                     <>
                                         <button
                                             onClick={handleSubmitGuess}
@@ -575,13 +582,6 @@
                                             🏳️ Give Up / Show Answer
                                         </button>
                                     </>
-                                ) : (
-                                    <button
-                                        onClick={handleNext}
-                                        className="w-full px-6 py-4 bg-retro-yellow text-black text-xl font-pixel rounded-lg hover:bg-yellow-600 transition pulse-glow"
-                                    >
-                                        ➡️ Next Puzzle
-                                    </button>
                                 )}
                             </div>
                             
