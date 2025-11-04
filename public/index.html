@@ -148,6 +148,7 @@
             const [hintsRevealed, setHintsRevealed] = useState([]);
             const [timer, setTimer] = useState(30);
             const [timerActive, setTimerActive] = useState(false);
+            const [score, setScore] = useState(0);
             const [showConfetti, setShowConfetti] = useState(false);
             const [revealedAnswer, setRevealedAnswer] = useState(null);
             const [message, setMessage] = useState('');
@@ -158,10 +159,19 @@
             
             const inputRef = useRef(null);
             
-            // Load initial puzzles
+            // Load initial puzzles and score
             useEffect(() => {
                 loadPuzzles();
+                
+                // Load saved score from localStorage
+                const savedScore = localStorage.getItem('emoji_movie_score');
+                if (savedScore) setScore(parseInt(savedScore));
             }, []);
+            
+            // Save score to localStorage
+            useEffect(() => {
+                localStorage.setItem('emoji_movie_score', score.toString());
+            }, [score]);
             
             // Timer logic
             useEffect(() => {
@@ -271,6 +281,9 @@
                 setGameState('correct');
                 setMessage(data.message);
                 setShowConfetti(true);
+                
+                // Add 100 points for correct answer
+                setScore(prev => prev + 100);
                 
                 setTimeout(() => setShowConfetti(false), 1500);
             };
@@ -406,6 +419,11 @@
                         <p className="text-retro-cyan text-sm md:text-lg font-pixel">
                             Guess the film title from the emoji sequence
                         </p>
+                        <div className="mt-4">
+                            <span className="text-retro-yellow text-2xl font-pixel bg-black/30 px-6 py-2 rounded-lg border-2 border-retro-yellow">
+                                Score: {score}
+                            </span>
+                        </div>
                     </header>
                     
                     {/* Main Game Layout */}
