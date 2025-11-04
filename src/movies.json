@@ -268,6 +268,1419 @@
     "genre": ["Animation", "Adventure"],
     "difficulty": "Easy",
     "explanation": "Ocean voyage, island, sailing, Polynesian princess."
+  },
+  {
+    "id": "jker-2019-hd",
+    "emojis": "🤡🃏😂🔫",
+    "answers": ["joker"],
+    "year": 2019,
+    "genre": ["Drama", "Thriller"],
+    "difficulty": "Hard",
+    "explanation": "Clown makeup, playing card, insane laughter, violence."
+  },
+  {
+    "id": "para-2019-hd",
+    "emojis": "🏠📦🪨🍜",
+    "answers": ["parasite"],
+    "year": 2019,
+    "genre": ["Thriller", "Drama"],
+    "difficulty": "Hard",
+    "explanation": "Rich house, basement, rock scholar stone, Korean film."
+  },
+  {
+    "id": "pnlp-1994-md",
+    "emojis": "💼🔫🍔📖",
+    "answers": ["pulp fiction"],
+    "year": 1994,
+    "genre": ["Crime", "Drama"],
+    "difficulty": "Medium",
+    "explanation": "Briefcase, gun, burger scene, non-linear storytelling."
+  },
+  {
+    "id": "gwtw-1939-md",
+    "emojis": "🌪️💃🏛️🔥",
+    "answers": ["gone with the wind"],
+    "year": 1939,
+    "genre": ["Romance", "Drama"],
+    "difficulty": "Medium",
+    "explanation": "Civil War tornado scene, Southern belle, plantation, Atlanta burning."
+  },
+  {
+    "id": "casa-1942-md",
+    "emojis": "✈️🍸🎹💔",
+    "answers": ["casablanca"],
+    "year": 1942,
+    "genre": ["Romance", "Drama"],
+    "difficulty": "Medium",
+    "explanation": "Airport, bar, piano ('Play it again, Sam'), lost love."
+  },
+  {
+    "id": "wzrd-1939-ez",
+    "emojis": "🌈👠🦁🤖",
+    "answers": ["the wizard of oz", "wizard of oz"],
+    "year": 1939,
+    "genre": ["Fantasy", "Musical"],
+    "difficulty": "Easy",
+    "explanation": "Rainbow, ruby slippers, Cowardly Lion, Tin Man."
+  },
+  {
+    "id": "swrs-1977-ez",
+    "emojis": "⚔️🌟🚀👽",
+    "answers": ["star wars"],
+    "year": 1977,
+    "genre": ["Sci-Fi", "Action"],
+    "difficulty": "Easy",
+    "explanation": "Lightsabers, Death Star, spaceships, aliens."
+  },
+  {
+    "id": "jaws-1975-ez2",
+    "emojis": "🦈🎵🏊‍♂️🩸",
+    "answers": ["jaws"],
+    "year": 1975,
+    "genre": ["Thriller", "Horror"],
+    "difficulty": "Easy",
+    "explanation": "Shark, iconic music, swimmer, blood in water."
+  },
+  {
+    "id": "exrc-1973-hd",
+    "emojis": "👧😈🛏️✝️",
+    "answers": ["the exorcist", "exorcist"],
+    "year": 1973,
+    "genre": ["Horror"],
+    "difficulty": "Hard",
+    "explanation": "Possessed girl, demon, bed levitation, crucifix."
+  },
+  {
+    "id": "psyc-1960-hd",
+    "emojis": "🚿🔪🏨👵",
+    "answers": ["psycho"],
+    "year": 1960,
+    "genre": ["Horror", "Thriller"],
+    "difficulty": "Hard",
+    "explanation": "Shower scene, knife, motel, mother's house."
+  },
+  {
+    "id": "shin-1980-hd",
+    "emojis": "🏨❄️🪓👦",
+    "answers": ["the shining", "shining"],
+    "year": 1980,
+    "genre": ["Horror", "Thriller"],
+    "difficulty": "Hard",
+    "explanation": "Overlook Hotel, snow, axe, psychic boy."
+  },
+  {
+    "id": "alln-1979-hd",
+    "emojis": "👽🚀😱💀",
+    "answers": ["alien"],
+    "year": 1979,
+    "genre": ["Sci-Fi", "Horror"],
+    "difficulty": "Hard",
+    "explanation": "Xenomorph, spaceship Nostromo, terror, death."
+  },
+  {
+    "id": "bldr-1982-md",
+    "emojis": "🌃🤖👁️🌧️",
+    "answers": ["blade runner"],
+    "year": 1982,
+    "genre": ["Sci-Fi", "Thriller"],
+    "difficulty": "Medium",
+    "explanation": "Futuristic LA, replicants, eye test, constant rain."
+  },
+  {
+    "id": "term-1984-md",
+    "emojis": "🤖💪⏰🔫",
+    "answers": ["the terminator", "terminator"],
+    "year": 1984,
+    "genre": ["Sci-Fi", "Action"],
+    "difficulty": "Medium",
+    "explanation": "Cyborg assassin, muscle, time travel, shotgun."
+  },
+  {
+    "id": "ghst-1984-ez",
+    "emojis": "👻🚫🏙️🔥",
+    "answers": ["ghostbusters"],
+    "year": 1984,
+    "genre": ["Comedy", "Fantasy"],
+    "difficulty": "Easy",
+    "explanation": "Ghosts, no-ghost logo, New York City, firehouse."
+  },
+  {
+    "id": "grml-1984-hd",
+    "emojis": "🐾💧🌙🍿",
+    "answers": ["gremlins"],
+    "year": 1984,
+    "genre": ["Horror", "Comedy"],
+    "difficulty": "Hard",
+    "explanation": "Mogwai, don't get them wet, don't feed after midnight, chaos."
+  },
+  {
+    "id": "brfst-1985-md",
+    "emojis": "📚🏫⏰👥",
+    "answers": ["the breakfast club", "breakfast club"],
+    "year": 1985,
+    "genre": ["Drama", "Comedy"],
+    "difficulty": "Medium",
+    "explanation": "Books, high school, Saturday detention, five students."
+  },
+  {
+    "id": "goon-1985-ez",
+    "emojis": "🏴‍☠️🗺️💎⛵",
+    "answers": ["the goonies", "goonies"],
+    "year": 1985,
+    "genre": ["Adventure", "Comedy"],
+    "difficulty": "Easy",
+    "explanation": "Pirates, treasure map, jewels, kids' adventure."
+  },
+  {
+    "id": "topg-1986-md",
+    "emojis": "✈️😎🎖️🏐",
+    "answers": ["top gun"],
+    "year": 1986,
+    "genre": ["Action", "Drama"],
+    "difficulty": "Medium",
+    "explanation": "Fighter jets, aviators, navy, volleyball scene."
+  },
+  {
+    "id": "pltn-1986-hd",
+    "emojis": "🪖🌴💣😢",
+    "answers": ["platoon"],
+    "year": 1986,
+    "genre": ["War", "Drama"],
+    "difficulty": "Hard",
+    "explanation": "Vietnam War, jungle, violence, tragedy."
+  },
+  {
+    "id": "dthy-1987-md",
+    "emojis": "🤰💊🧙‍♀️👑",
+    "answers": ["the princess bride", "princess bride"],
+    "year": 1987,
+    "genre": ["Fantasy", "Romance"],
+    "difficulty": "Medium",
+    "explanation": "True love, poison, miracle man, princess and prince."
+  },
+  {
+    "id": "wall-1987-md",
+    "emojis": "💼📈🍸🎭",
+    "answers": ["wall street"],
+    "year": 1987,
+    "genre": ["Drama"],
+    "difficulty": "Medium",
+    "explanation": "Stock market, greed, alcohol, corporate drama."
+  },
+  {
+    "id": "die1-1988-md",
+    "emojis": "🏢💣👮‍♂️🎄",
+    "answers": ["die hard"],
+    "year": 1988,
+    "genre": ["Action", "Thriller"],
+    "difficulty": "Medium",
+    "explanation": "Nakatomi Plaza, explosives, cop, Christmas Eve."
+  },
+  {
+    "id": "rain-1988-md",
+    "emojis": "🚗🧩😐💰",
+    "answers": ["rain man"],
+    "year": 1988,
+    "genre": ["Drama"],
+    "difficulty": "Medium",
+    "explanation": "Road trip, autistic savant, Charlie and Raymond, inheritance."
+  },
+  {
+    "id": "btmn-1989-md",
+    "emojis": "🦇🃏🌃🏙️",
+    "answers": ["batman"],
+    "year": 1989,
+    "genre": ["Action", "Superhero"],
+    "difficulty": "Medium",
+    "explanation": "Bat symbol, Joker, nighttime, Gotham City."
+  },
+  {
+    "id": "wndr-1987-ez",
+    "emojis": "💀🤺👸💑",
+    "answers": ["the princess bride", "princess bride"],
+    "year": 1987,
+    "genre": ["Fantasy", "Romance"],
+    "difficulty": "Easy",
+    "explanation": "Death, sword fighting, princess, true love."
+  },
+  {
+    "id": "hook-1991-ez",
+    "emojis": "🧚‍♀️⚔️🏴‍☠️👶",
+    "answers": ["hook"],
+    "year": 1991,
+    "genre": ["Fantasy", "Adventure"],
+    "difficulty": "Easy",
+    "explanation": "Tinker Bell, sword fight, Captain Hook, Peter Pan's kids."
+  },
+  {
+    "id": "slnc-1991-hd",
+    "emojis": "🦋🔪🧠👮‍♀️",
+    "answers": ["the silence of the lambs", "silence of the lambs"],
+    "year": 1991,
+    "genre": ["Thriller", "Horror"],
+    "difficulty": "Hard",
+    "explanation": "Butterfly, knife, Hannibal Lecter, FBI agent Clarice."
+  },
+  {
+    "id": "tmnt-1990-ez",
+    "emojis": "🐢🍕🥷🐀",
+    "answers": ["teenage mutant ninja turtles", "ninja turtles", "tmnt"],
+    "year": 1990,
+    "genre": ["Action", "Comedy"],
+    "difficulty": "Easy",
+    "explanation": "Turtles, pizza, ninjas, Master Splinter the rat."
+  },
+  {
+    "id": "home-1990-ez",
+    "emojis": "🏠👦🎄🎭",
+    "answers": ["home alone"],
+    "year": 1990,
+    "genre": ["Comedy", "Family"],
+    "difficulty": "Easy",
+    "explanation": "House, kid, Christmas, burglars."
+  },
+  {
+    "id": "prwm-1990-md",
+    "emojis": "👠💄👸💰",
+    "answers": ["pretty woman"],
+    "year": 1990,
+    "genre": ["Romance", "Comedy"],
+    "difficulty": "Medium",
+    "explanation": "Shopping, makeover, Cinderella story, wealthy businessman."
+  },
+  {
+    "id": "good-1990-hd",
+    "emojis": "🤵🔫🍝🏌️",
+    "answers": ["goodfellas"],
+    "year": 1990,
+    "genre": ["Crime", "Drama"],
+    "difficulty": "Hard",
+    "explanation": "Mobster, violence, Italian food, golf club scene."
+  },
+  {
+    "id": "dncs-1990-md",
+    "emojis": "🐺💃🏞️🎖️",
+    "answers": ["dances with wolves"],
+    "year": 1990,
+    "genre": ["Western", "Drama"],
+    "difficulty": "Medium",
+    "explanation": "Wolf name, Native American culture, frontier, Civil War soldier."
+  },
+  {
+    "id": "beau-1991-md",
+    "emojis": "🌹🦁👸📚",
+    "answers": ["beauty and the beast"],
+    "year": 1991,
+    "genre": ["Animation", "Romance"],
+    "difficulty": "Medium",
+    "explanation": "Enchanted rose, Beast, Belle, library."
+  },
+  {
+    "id": "tndr-1991-md",
+    "emojis": "👦🏃‍♂️🤖💥",
+    "answers": ["terminator 2", "t2", "terminator 2 judgment day"],
+    "year": 1991,
+    "genre": ["Sci-Fi", "Action"],
+    "difficulty": "Medium",
+    "explanation": "Young John Connor, chase, T-800, explosions."
+  },
+  {
+    "id": "alad-1992-ez",
+    "emojis": "🧞‍♂️🪔✨👸",
+    "answers": ["aladdin"],
+    "year": 1992,
+    "genre": ["Animation", "Musical"],
+    "difficulty": "Easy",
+    "explanation": "Genie, magic lamp, wishes, Princess Jasmine."
+  },
+  {
+    "id": "rsvr-1992-hd",
+    "emojis": "🐕💎🏴‍☠️🔫",
+    "answers": ["reservoir dogs"],
+    "year": 1992,
+    "genre": ["Crime", "Thriller"],
+    "difficulty": "Hard",
+    "explanation": "Color code names, diamond heist, standoff, violence."
+  },
+  {
+    "id": "fewg-1992-md",
+    "emojis": "⚖️🪖💂‍♂️⭐",
+    "answers": ["a few good men", "few good men"],
+    "year": 1992,
+    "genre": ["Drama", "Thriller"],
+    "difficulty": "Medium",
+    "explanation": "Court martial, marines, Code Red, 'You can't handle the truth!'"
+  },
+  {
+    "id": "schd-1993-hd",
+    "emojis": "👔📋🚂😢",
+    "answers": ["schindler's list", "schindlers list"],
+    "year": 1993,
+    "genre": ["Drama", "History"],
+    "difficulty": "Hard",
+    "explanation": "Businessman, list of names, trains, Holocaust."
+  },
+  {
+    "id": "fugv-1993-md",
+    "emojis": "👮‍♂️🏃‍♂️🚂🔍",
+    "answers": ["the fugitive", "fugitive"],
+    "year": 1993,
+    "genre": ["Thriller", "Action"],
+    "difficulty": "Medium",
+    "explanation": "US Marshal, escaped prisoner, train crash, manhunt."
+  },
+  {
+    "id": "firm-1993-md",
+    "emojis": "👔⚖️💰🕵️",
+    "answers": ["the firm"],
+    "year": 1993,
+    "genre": ["Thriller", "Drama"],
+    "difficulty": "Medium",
+    "explanation": "Young lawyer, corruption, money laundering, investigation."
+  },
+  {
+    "id": "mrs-1994-md",
+    "emojis": "💊🥄🎭👨‍⚕️",
+    "answers": ["mrs doubtfire"],
+    "year": 1994,
+    "genre": ["Comedy", "Drama"],
+    "difficulty": "Medium",
+    "explanation": "Pills, spoon, disguise, nanny role."
+  },
+  {
+    "id": "mask-1994-ez",
+    "emojis": "🎭💚🌪️🐕",
+    "answers": ["the mask", "mask"],
+    "year": 1994,
+    "genre": ["Comedy", "Fantasy"],
+    "difficulty": "Easy",
+    "explanation": "Green mask, tornado transformation, dog Milo."
+  },
+  {
+    "id": "spd-1994-md",
+    "emojis": "🚌💣⏱️💨",
+    "answers": ["speed"],
+    "year": 1994,
+    "genre": ["Action", "Thriller"],
+    "difficulty": "Medium",
+    "explanation": "Bus, bomb, timer, must stay above 50 mph."
+  },
+  {
+    "id": "lion-1994-ez2",
+    "emojis": "🦁🐗🐾👑",
+    "answers": ["the lion king", "lion king"],
+    "year": 1994,
+    "genre": ["Animation", "Drama"],
+    "difficulty": "Easy",
+    "explanation": "Simba, Pumbaa warthog, paw prints, Pride Rock."
+  },
+  {
+    "id": "ace-1994-ez",
+    "emojis": "🦜🐬🕵️😜",
+    "answers": ["ace ventura", "ace ventura pet detective"],
+    "year": 1994,
+    "genre": ["Comedy"],
+    "difficulty": "Easy",
+    "explanation": "Parrot, dolphin, pet detective, wacky behavior."
+  },
+  {
+    "id": "shaw-1994-hd",
+    "emojis": "⛓️🔨📖🎭",
+    "answers": ["the shawshank redemption", "shawshank redemption"],
+    "year": 1994,
+    "genre": ["Drama"],
+    "difficulty": "Hard",
+    "explanation": "Prison, rock hammer, Bible, redemption."
+  },
+  {
+    "id": "apol-1995-md",
+    "emojis": "🚀🌕👨‍🚀😰",
+    "answers": ["apollo 13"],
+    "year": 1995,
+    "genre": ["Drama", "History"],
+    "difficulty": "Medium",
+    "explanation": "Spacecraft, moon mission, astronauts, crisis."
+  },
+  {
+    "id": "brav-1995-hd",
+    "emojis": "🏴󠁧󠁢󠁳󠁣󠁴󠁿⚔️💙🗡️",
+    "answers": ["braveheart"],
+    "year": 1995,
+    "genre": ["War", "Drama"],
+    "difficulty": "Hard",
+    "explanation": "Scotland, sword, blue face paint, William Wallace."
+  },
+  {
+    "id": "case-1995-md",
+    "emojis": "👻😱🏚️3️⃣",
+    "answers": ["casper"],
+    "year": 1995,
+    "genre": ["Fantasy", "Comedy"],
+    "difficulty": "Medium",
+    "explanation": "Friendly ghost, scared, mansion, three uncles."
+  },
+  {
+    "id": "7ven-1995-hd",
+    "emojis": "7️⃣💀📦🔍",
+    "answers": ["seven", "se7en"],
+    "year": 1995,
+    "genre": ["Thriller", "Crime"],
+    "difficulty": "Hard",
+    "explanation": "Seven deadly sins, murders, box, detectives."
+  },
+  {
+    "id": "heat-1995-md",
+    "emojis": "🔫👮‍♂️💰☕",
+    "answers": ["heat"],
+    "year": 1995,
+    "genre": ["Crime", "Drama"],
+    "difficulty": "Medium",
+    "explanation": "Shootout, cop and criminal, heist, coffee shop scene."
+  },
+  {
+    "id": "usus-1995-md",
+    "emojis": "🕵️🔍💀😱",
+    "answers": ["the usual suspects", "usual suspects"],
+    "year": 1995,
+    "genre": ["Crime", "Thriller"],
+    "difficulty": "Medium",
+    "explanation": "Mystery, investigation, death, twist ending."
+  },
+  {
+    "id": "twst-1996-md",
+    "emojis": "🌪️🚗🐄☁️",
+    "answers": ["twister"],
+    "year": 1996,
+    "genre": ["Action", "Adventure"],
+    "difficulty": "Medium",
+    "explanation": "Tornado, storm chasers, flying cow, extreme weather."
+  },
+  {
+    "id": "indp-1996-md",
+    "emojis": "🛸💥🌎🇺🇸",
+    "answers": ["independence day"],
+    "year": 1996,
+    "genre": ["Sci-Fi", "Action"],
+    "difficulty": "Medium",
+    "explanation": "UFOs, explosion, Earth invasion, July 4th."
+  },
+  {
+    "id": "rock-1996-md",
+    "emojis": "🏝️💣🚁🎖️",
+    "answers": ["the rock"],
+    "year": 1996,
+    "genre": ["Action", "Thriller"],
+    "difficulty": "Medium",
+    "explanation": "Alcatraz, chemical weapons, helicopter, Marines."
+  },
+  {
+    "id": "scre-1996-md",
+    "emojis": "☎️🔪😱🎭",
+    "answers": ["scream"],
+    "year": 1996,
+    "genre": ["Horror", "Mystery"],
+    "difficulty": "Medium",
+    "explanation": "Phone call, knife, screaming, Ghostface mask."
+  },
+  {
+    "id": "engl-1996-md",
+    "emojis": "🏥💊😢👦",
+    "answers": ["the english patient", "english patient"],
+    "year": 1996,
+    "genre": ["Romance", "Drama"],
+    "difficulty": "Medium",
+    "explanation": "Hospital, medicine, love story, burned patient."
+  },
+  {
+    "id": "farg-1996-md",
+    "emojis": "❄️🚗🪓💰",
+    "answers": ["fargo"],
+    "year": 1996,
+    "genre": ["Crime", "Drama"],
+    "difficulty": "Medium",
+    "explanation": "Snow, car, wood chipper, ransom money."
+  },
+  {
+    "id": "jery-1996-md",
+    "emojis": "💰🏃‍♂️✈️🔫",
+    "answers": ["jerry maguire"],
+    "year": 1996,
+    "genre": ["Romance", "Drama"],
+    "difficulty": "Medium",
+    "explanation": "Show me the money, sports agent, love story."
+  },
+  {
+    "id": "spce-1996-ez",
+    "emojis": "🏀👽🐰🏀",
+    "answers": ["space jam"],
+    "year": 1996,
+    "genre": ["Animation", "Comedy"],
+    "difficulty": "Easy",
+    "explanation": "Basketball, aliens, Bugs Bunny, Michael Jordan."
+  },
+  {
+    "id": "5the-1997-hd",
+    "emojis": "💎🔥🌟👽",
+    "answers": ["the fifth element", "fifth element"],
+    "year": 1997,
+    "genre": ["Sci-Fi", "Action"],
+    "difficulty": "Hard",
+    "explanation": "Stones, fire element, supreme being, alien invasion."
+  },
+  {
+    "id": "meni-1997-md",
+    "emojis": "👔💰🕴️😈",
+    "answers": ["men in black", "mib"],
+    "year": 1997,
+    "genre": ["Sci-Fi", "Comedy"],
+    "difficulty": "Medium",
+    "explanation": "Suits, aliens, agents, sunglasses."
+  },
+  {
+    "id": "gwhh-1997-md",
+    "emojis": "❤️💔😢🥰",
+    "answers": ["good will hunting"],
+    "year": 1997,
+    "genre": ["Drama"],
+    "difficulty": "Medium",
+    "explanation": "Genius janitor, therapist, emotional journey."
+  },
+  {
+    "id": "face-1997-md",
+    "emojis": "😷🔫👮‍♂️🎭",
+    "answers": ["face off"],
+    "year": 1997,
+    "genre": ["Action", "Thriller"],
+    "difficulty": "Medium",
+    "explanation": "Face swap, gun, cop and criminal, identity switch."
+  },
+  {
+    "id": "life-1997-md",
+    "emojis": "🚢💎❤️🥶",
+    "answers": ["titanic"],
+    "year": 1997,
+    "genre": ["Romance", "Drama"],
+    "difficulty": "Medium",
+    "explanation": "Ship, necklace, love story, icy water."
+  },
+  {
+    "id": "save-1998-hd",
+    "emojis": "🪖🏖️🎖️😢",
+    "answers": ["saving private ryan"],
+    "year": 1998,
+    "genre": ["War", "Drama"],
+    "difficulty": "Hard",
+    "explanation": "D-Day, Omaha Beach, medal, brotherhood."
+  },
+  {
+    "id": "trur-1998-md",
+    "emojis": "📺🏝️⛵📹",
+    "answers": ["the truman show", "truman show"],
+    "year": 1998,
+    "genre": ["Drama", "Sci-Fi"],
+    "difficulty": "Medium",
+    "explanation": "Reality TV, dome island, boat escape, cameras everywhere."
+  },
+  {
+    "id": "arma-1998-md",
+    "emojis": "☄️🚀💥🌎",
+    "answers": ["armageddon"],
+    "year": 1998,
+    "genre": ["Sci-Fi", "Action"],
+    "difficulty": "Medium",
+    "explanation": "Asteroid, space mission, explosion, save Earth."
+  },
+  {
+    "id": "muln-1998-ez",
+    "emojis": "🐉⚔️👘🏯",
+    "answers": ["mulan"],
+    "year": 1998,
+    "genre": ["Animation", "Adventure"],
+    "difficulty": "Easy",
+    "explanation": "Dragon Mushu, sword, Chinese warrior, honor."
+  },
+  {
+    "id": "bugs-1998-ez",
+    "emojis": "🐜🐞🍃🌱",
+    "answers": ["a bug's life", "bugs life"],
+    "year": 1998,
+    "genre": ["Animation", "Adventure"],
+    "difficulty": "Easy",
+    "explanation": "Ants, ladybug, leaves, colony."
+  },
+  {
+    "id": "sixs-1999-hd",
+    "emojis": "👻👦🔴💀",
+    "answers": ["the sixth sense", "sixth sense"],
+    "year": 1999,
+    "genre": ["Thriller", "Drama"],
+    "difficulty": "Hard",
+    "explanation": "See dead people, boy, red color, twist ending."
+  },
+  {
+    "id": "mtrx-1999-ez",
+    "emojis": "💊🔫🕶️⏱️",
+    "answers": ["the matrix", "matrix"],
+    "year": 1999,
+    "genre": ["Sci-Fi", "Action"],
+    "difficulty": "Easy",
+    "explanation": "Red pill, guns, sunglasses, bullet time."
+  },
+  {
+    "id": "ameb-1999-md",
+    "emojis": "🏠🌹💼🎥",
+    "answers": ["american beauty"],
+    "year": 1999,
+    "genre": ["Drama"],
+    "difficulty": "Medium",
+    "explanation": "Suburban house, rose petals, midlife crisis, camera."
+  },
+  {
+    "id": "grnm-1999-md",
+    "emojis": "👴⚡😢🔗",
+    "answers": ["the green mile", "green mile"],
+    "year": 1999,
+    "genre": ["Drama", "Fantasy"],
+    "difficulty": "Medium",
+    "explanation": "Death row, miracle healing, empathy, prison."
+  },
+  {
+    "id": "tarzan-1999-ez",
+    "emojis": "🦍🌴🏝️👨",
+    "answers": ["tarzan"],
+    "year": 1999,
+    "genre": ["Animation", "Adventure"],
+    "difficulty": "Easy",
+    "explanation": "Gorillas, jungle, raised by apes, vine swinging."
+  },
+  {
+    "id": "glad-2000-md2",
+    "emojis": "🗡️🏟️🦁👑",
+    "answers": ["gladiator"],
+    "year": 2000,
+    "genre": ["Action", "Drama"],
+    "difficulty": "Medium",
+    "explanation": "Sword, Colosseum, strength, Roman emperor."
+  },
+  {
+    "id": "xmen-2000-md",
+    "emojis": "❌🧬💪🧲",
+    "answers": ["x-men", "xmen"],
+    "year": 2000,
+    "genre": ["Action", "Superhero"],
+    "difficulty": "Medium",
+    "explanation": "X symbol, mutants, powers, Magneto."
+  },
+  {
+    "id": "ubrk-2000-md",
+    "emojis": "🌊🏄‍♂️🔫🤿",
+    "answers": ["point break"],
+    "year": 1991,
+    "genre": ["Action", "Thriller"],
+    "difficulty": "Medium",
+    "explanation": "Surfing, bank robbery, undercover FBI, skydiving."
+  },
+  {
+    "id": "cstw-2000-md",
+    "emojis": "✈️🏝️🏐🔥",
+    "answers": ["cast away"],
+    "year": 2000,
+    "genre": ["Drama", "Adventure"],
+    "difficulty": "Medium",
+    "explanation": "Plane crash, deserted island, Wilson volleyball, fire."
+  },
+  {
+    "id": "memn-2000-hd",
+    "emojis": "🧠📸🔄💀",
+    "answers": ["memento"],
+    "year": 2000,
+    "genre": ["Thriller", "Mystery"],
+    "difficulty": "Hard",
+    "explanation": "Memory loss, Polaroid photos, reverse storytelling, revenge."
+  },
+  {
+    "id": "crch-2000-md",
+    "emojis": "🐉🗡️🎋🏯",
+    "answers": ["crouching tiger hidden dragon"],
+    "year": 2000,
+    "genre": ["Action", "Adventure"],
+    "difficulty": "Medium",
+    "explanation": "Dragon symbolism, sword, bamboo fight, Chinese martial arts."
+  },
+  {
+    "id": "msyp-2001-ez",
+    "emojis": "🐭🍝🍷👨‍🍳",
+    "answers": ["ratatouille"],
+    "year": 2007,
+    "genre": ["Animation", "Comedy"],
+    "difficulty": "Easy",
+    "explanation": "Rat chef, pasta, wine, cooking."
+  },
+  {
+    "id": "shrek-2001-ez2",
+    "emojis": "🧅👹💚🐲",
+    "answers": ["shrek"],
+    "year": 2001,
+    "genre": ["Animation", "Comedy"],
+    "difficulty": "Easy",
+    "explanation": "Onions have layers, ogre, green, dragon."
+  },
+  {
+    "id": "ocen-2001-md",
+    "emojis": "💰🎰🎲🏨",
+    "answers": ["ocean's eleven", "oceans eleven", "oceans 11"],
+    "year": 2001,
+    "genre": ["Crime", "Thriller"],
+    "difficulty": "Medium",
+    "explanation": "Casino heist, gambling, Las Vegas, hotel."
+  },
+  {
+    "id": "muli-2001-md",
+    "emojis": "🏎️💙💸🏁",
+    "answers": ["mulholland drive"],
+    "year": 2001,
+    "genre": ["Mystery", "Thriller"],
+    "difficulty": "Hard",
+    "explanation": "Drive, blue box, Hollywood, surreal mystery."
+  },
+  {
+    "id": "amen-2001-md",
+    "emojis": "🏴󠁧󠁢󠁥󠁮󠁧󠁿💍⚔️🏰",
+    "answers": ["amelie"],
+    "year": 2001,
+    "genre": ["Romance", "Comedy"],
+    "difficulty": "Medium",
+    "explanation": "French film, matchmaking, whimsical, Parisian life."
+  },
+  {
+    "id": "born-2002-md",
+    "emojis": "🕵️💉🔫🏃‍♂️",
+    "answers": ["the bourne identity", "bourne identity"],
+    "year": 2002,
+    "genre": ["Action", "Thriller"],
+    "difficulty": "Medium",
+    "explanation": "Spy, amnesia, gun, on the run."
+  },
+  {
+    "id": "mino-2002-md",
+    "emojis": "👮‍♂️🔍👁️🔮",
+    "answers": ["minority report"],
+    "year": 2002,
+    "genre": ["Sci-Fi", "Thriller"],
+    "difficulty": "Medium",
+    "explanation": "Pre-crime cops, eye scan, precogs see future."
+  },
+  {
+    "id": "city-2002-md",
+    "emojis": "🚗🏙️🎵💃",
+    "answers": ["chicago"],
+    "year": 2002,
+    "genre": ["Musical", "Crime"],
+    "difficulty": "Medium",
+    "explanation": "Jazz age, city, song and dance, murder."
+  },
+  {
+    "id": "sign-2002-md",
+    "emojis": "🌽👽☘️💧",
+    "answers": ["signs"],
+    "year": 2002,
+    "genre": ["Sci-Fi", "Thriller"],
+    "difficulty": "Medium",
+    "explanation": "Crop circles, aliens, faith, water weakness."
+  },
+  {
+    "id": "sptr-2002-ez2",
+    "emojis": "🕷️🕸️🏙️💙",
+    "answers": ["spider-man", "spiderman"],
+    "year": 2002,
+    "genre": ["Action", "Superhero"],
+    "difficulty": "Easy",
+    "explanation": "Spider bite, web shooting, New York, blue and red suit."
+  },
+  {
+    "id": "lilo-2002-ez",
+    "emojis": "👧🐾🏝️🌺",
+    "answers": ["lilo and stitch", "lilo & stitch"],
+    "year": 2002,
+    "genre": ["Animation", "Family"],
+    "difficulty": "Easy",
+    "explanation": "Hawaiian girl, alien experiment 626, island, ohana."
+  },
+  {
+    "id": "28dy-2002-md",
+    "emojis": "🧟‍♂️🏙️😷💥",
+    "answers": ["28 days later"],
+    "year": 2002,
+    "genre": ["Horror", "Sci-Fi"],
+    "difficulty": "Medium",
+    "explanation": "Zombie infection, London, rage virus, apocalypse."
+  },
+  {
+    "id": "bruc-2003-md",
+    "emojis": "💪⚡🧪😡",
+    "answers": ["hulk", "the hulk"],
+    "year": 2003,
+    "genre": ["Action", "Superhero"],
+    "difficulty": "Medium",
+    "explanation": "Muscles, gamma radiation, lab experiment, anger."
+  },
+  {
+    "id": "pirat-2003-md",
+    "emojis": "🏴‍☠️⚓🦜💰",
+    "answers": ["pirates of the caribbean", "pirates"],
+    "year": 2003,
+    "genre": ["Adventure", "Fantasy"],
+    "difficulty": "Medium",
+    "explanation": "Pirate flag, ship anchor, parrot, treasure."
+  },
+  {
+    "id": "killb-2003-md",
+    "emojis": "👰⚔️💛🩸",
+    "answers": ["kill bill", "kill bill volume 1"],
+    "year": 2003,
+    "genre": ["Action", "Thriller"],
+    "difficulty": "Medium",
+    "explanation": "Bride, katana sword, yellow tracksuit, revenge."
+  },
+  {
+    "id": "myst-2003-md",
+    "emojis": "🏞️🔍💀🎥",
+    "answers": ["mystic river"],
+    "year": 2003,
+    "genre": ["Crime", "Drama"],
+    "difficulty": "Medium",
+    "explanation": "River setting, investigation, murder, Boston."
+  },
+  {
+    "id": "bigf-2003-md",
+    "emojis": "🎣🏞️💍🏠",
+    "answers": ["big fish"],
+    "year": 2003,
+    "genre": ["Fantasy", "Drama"],
+    "difficulty": "Medium",
+    "explanation": "Fishing, tall tales, wedding ring, storytelling."
+  },
+  {
+    "id": "love-2003-md",
+    "emojis": "❤️🎄🇬🇧✈️",
+    "answers": ["love actually"],
+    "year": 2003,
+    "genre": ["Romance", "Comedy"],
+    "difficulty": "Medium",
+    "explanation": "Multiple love stories, Christmas, London, airport."
+  },
+  {
+    "id": "mast-2003-md",
+    "emojis": "⚔️🏔️🐎🎖️",
+    "answers": ["the last samurai", "last samurai"],
+    "year": 2003,
+    "genre": ["War", "Drama"],
+    "difficulty": "Medium",
+    "explanation": "Samurai swords, mountains, horses, honor."
+  },
+  {
+    "id": "50fr-2004-md",
+    "emojis": "📼🏝️🤕❤️",
+    "answers": ["50 first dates"],
+    "year": 2004,
+    "genre": ["Romance", "Comedy"],
+    "difficulty": "Medium",
+    "explanation": "Video tape, Hawaii, memory loss, daily courtship."
+  },
+  {
+    "id": "incr-2004-ez",
+    "emojis": "👨‍👩‍👧‍👦🦸‍♂️🎭👶",
+    "answers": ["the incredibles", "incredibles"],
+    "year": 2004,
+    "genre": ["Animation", "Action"],
+    "difficulty": "Easy",
+    "explanation": "Superhero family, masks, baby Jack-Jack."
+  },
+  {
+    "id": "etrn-2004-md",
+    "emojis": "💑💔🧠📝",
+    "answers": ["eternal sunshine of the spotless mind", "eternal sunshine"],
+    "year": 2004,
+    "genre": ["Romance", "Sci-Fi"],
+    "difficulty": "Medium",
+    "explanation": "Relationship, breakup, memory erasing, love."
+  },
+  {
+    "id": "avia-2004-md",
+    "emojis": "✈️💼🔫😎",
+    "answers": ["the aviator", "aviator"],
+    "year": 2004,
+    "genre": ["Biography", "Drama"],
+    "difficulty": "Medium",
+    "explanation": "Howard Hughes, aviation, businessman, OCD."
+  },
+  {
+    "id": "note-2004-md",
+    "emojis": "📓❤️🦢💔",
+    "answers": ["the notebook", "notebook"],
+    "year": 2004,
+    "genre": ["Romance", "Drama"],
+    "difficulty": "Medium",
+    "explanation": "Diary, love story, swans, Alzheimer's."
+  },
+  {
+    "id": "crah-2004-md",
+    "emojis": "🚗💥🎬🏙️",
+    "answers": ["crash"],
+    "year": 2004,
+    "genre": ["Drama"],
+    "difficulty": "Medium",
+    "explanation": "Car accident, interconnected stories, Los Angeles."
+  },
+  {
+    "id": "troy-2004-md",
+    "emojis": "🐴⚔️🏛️🛡️",
+    "answers": ["troy"],
+    "year": 2004,
+    "genre": ["War", "Drama"],
+    "difficulty": "Medium",
+    "explanation": "Trojan horse, sword, ancient Greece, battle."
+  },
+  {
+    "id": "spon-2004-ez",
+    "emojis": "🧽🍍🌊⭐",
+    "answers": ["the spongebob squarepants movie", "spongebob movie"],
+    "year": 2004,
+    "genre": ["Animation", "Comedy"],
+    "difficulty": "Easy",
+    "explanation": "Sponge, pineapple house, ocean, starfish Patrick."
+  },
+  {
+    "id": "king-2005-md",
+    "emojis": "🦍🏙️🔗👸",
+    "answers": ["king kong"],
+    "year": 2005,
+    "genre": ["Adventure", "Fantasy"],
+    "difficulty": "Medium",
+    "explanation": "Giant gorilla, New York, chains, beauty and the beast."
+  },
+  {
+    "id": "huss-2005-md",
+    "emojis": "🔫💰🦹‍♂️🍻",
+    "answers": ["mr and mrs smith", "mr & mrs smith"],
+    "year": 2005,
+    "genre": ["Action", "Comedy"],
+    "difficulty": "Medium",
+    "explanation": "Assassins, marriage, guns, chemistry."
+  },
+  {
+    "id": "cors-2006-ez",
+    "emojis": "🏎️⚡🚗🏁",
+    "answers": ["cars"],
+    "year": 2006,
+    "genre": ["Animation", "Family"],
+    "difficulty": "Easy",
+    "explanation": "Race cars, Lightning McQueen, racing, finish line."
+  },
+  {
+    "id": "pres-2006-md",
+    "emojis": "🎩🎩👨‍👦‍👦🎭",
+    "answers": ["the prestige", "prestige"],
+    "year": 2006,
+    "genre": ["Mystery", "Thriller"],
+    "difficulty": "Medium",
+    "explanation": "Top hats, magicians, rivalry, illusions."
+  },
+  {
+    "id": "dept-2006-md",
+    "emojis": "👮‍♂️🐀🔫🇮🇪",
+    "answers": ["the departed", "departed"],
+    "year": 2006,
+    "genre": ["Crime", "Thriller"],
+    "difficulty": "Medium",
+    "explanation": "Undercover cop, rat informant, guns, Boston Irish mob."
+  },
+  {
+    "id": "cass-2006-md",
+    "emojis": "👑🎭💰🌟",
+    "answers": ["casino royale"],
+    "year": 2006,
+    "genre": ["Action", "Spy"],
+    "difficulty": "Medium",
+    "explanation": "King, poker, money, Bond James Bond."
+  },
+  {
+    "id": "bldm-2006-md",
+    "emojis": "💎🔫🌍💼",
+    "answers": ["blood diamond"],
+    "year": 2006,
+    "genre": ["Drama", "Thriller"],
+    "difficulty": "Medium",
+    "explanation": "Diamond, guns, Africa, conflict diamonds."
+  },
+  {
+    "id": "pans-2006-hd",
+    "emojis": "🧚‍♀️🌙👧🏰",
+    "answers": ["pan's labyrinth", "pans labyrinth"],
+    "year": 2006,
+    "genre": ["Fantasy", "Drama"],
+    "difficulty": "Hard",
+    "explanation": "Faun, moonlight, girl, magical underworld."
+  },
+  {
+    "id": "300-2006-md",
+    "emojis": "⚔️🛡️🏛️🔥",
+    "answers": ["300"],
+    "year": 2006,
+    "genre": ["Action", "War"],
+    "difficulty": "Medium",
+    "explanation": "Spartan warriors, shields, 'This is Sparta!', battle."
+  },
+  {
+    "id": "rata-2007-ez2",
+    "emojis": "🐀👨‍🍳🇫🇷🍷",
+    "answers": ["ratatouille"],
+    "year": 2007,
+    "genre": ["Animation", "Comedy"],
+    "difficulty": "Easy",
+    "explanation": "Rat Remy, chef, Paris, French cuisine."
+  },
+  {
+    "id": "ther-2007-md",
+    "emojis": "🩸💰🔫🏜️",
+    "answers": ["no country for old men"],
+    "year": 2007,
+    "genre": ["Crime", "Thriller"],
+    "difficulty": "Medium",
+    "explanation": "Blood, drug money, silencer gun, Texas desert."
+  },
+  {
+    "id": "juno-2007-md",
+    "emojis": "🤰👶🎸❤️",
+    "answers": ["juno"],
+    "year": 2007,
+    "genre": ["Comedy", "Drama"],
+    "difficulty": "Medium",
+    "explanation": "Teenage pregnancy, adoption, guitar, quirky love."
+  },
+  {
+    "id": "aton-2007-md",
+    "emojis": "🏖️🎻👗💚",
+    "answers": ["atonement"],
+    "year": 2007,
+    "genre": ["Romance", "Drama"],
+    "difficulty": "Medium",
+    "explanation": "Beach, typewriter, green dress, WWII love story."
+  },
+  {
+    "id": "wall-2008-ez",
+    "emojis": "🤖🌱🚀❤️",
+    "answers": ["wall-e", "walle"],
+    "year": 2008,
+    "genre": ["Animation", "Sci-Fi"],
+    "difficulty": "Easy",
+    "explanation": "Robot, plant, space, love story."
+  },
+  {
+    "id": "dark-2008-md",
+    "emojis": "🦇🃏💥🏙️",
+    "answers": ["the dark knight", "dark knight"],
+    "year": 2008,
+    "genre": ["Action", "Superhero"],
+    "difficulty": "Medium",
+    "explanation": "Batman, Joker, explosion, Gotham."
+  },
+  {
+    "id": "iron-2008-md",
+    "emojis": "🔨⚙️💪🔴",
+    "answers": ["iron man"],
+    "year": 2008,
+    "genre": ["Action", "Superhero"],
+    "difficulty": "Medium",
+    "explanation": "Metal, technology, arc reactor, red and gold."
+  },
+  {
+    "id": "slum-2008-md",
+    "emojis": "💰📞🇮🇳❤️",
+    "answers": ["slumdog millionaire"],
+    "year": 2008,
+    "genre": ["Drama", "Romance"],
+    "difficulty": "Medium",
+    "explanation": "Money, game show, India, love conquers."
+  },
+  {
+    "id": "wres-2008-md",
+    "emojis": "🤼‍♂️💪👨‍👧😢",
+    "answers": ["the wrestler", "wrestler"],
+    "year": 2008,
+    "genre": ["Drama", "Sport"],
+    "difficulty": "Medium",
+    "explanation": "Wrestling, aging fighter, daughter, tragedy."
+  },
+  {
+    "id": "grvt-2013-hd",
+    "emojis": "🚀👩‍🚀🌍💫",
+    "answers": ["gravity"],
+    "year": 2013,
+    "genre": ["Sci-Fi", "Thriller"],
+    "difficulty": "Hard",
+    "explanation": "Space station, astronaut, Earth from orbit, debris."
+  },
+  {
+    "id": "djan-2012-md",
+    "emojis": "🔗🩸🏇⚖️",
+    "answers": ["django unchained"],
+    "year": 2012,
+    "genre": ["Western", "Drama"],
+    "difficulty": "Medium",
+    "explanation": "Chains, blood, bounty hunter, justice."
+  },
+  {
+    "id": "argo-2012-md",
+    "emojis": "🇮🇷✈️🎬🕵️",
+    "answers": ["argo"],
+    "year": 2012,
+    "genre": ["Thriller", "Drama"],
+    "difficulty": "Medium",
+    "explanation": "Iran hostage crisis, escape, fake movie, CIA."
+  },
+  {
+    "id": "life-2012-md",
+    "emojis": "🐯🌊⛵🙏",
+    "answers": ["life of pi"],
+    "year": 2012,
+    "genre": ["Adventure", "Drama"],
+    "difficulty": "Medium",
+    "explanation": "Tiger, ocean, lifeboat, spiritual journey."
+  },
+  {
+    "id": "skyf-2012-md",
+    "emojis": "🔫🏴󠁧󠁢󠁥󠁮󠁧󠁿🎯💥",
+    "answers": ["skyfall"],
+    "year": 2012,
+    "genre": ["Action", "Spy"],
+    "difficulty": "Medium",
+    "explanation": "007, London, target, explosions."
+  },
+  {
+    "id": "ted-2012-md",
+    "emojis": "🧸💨🍺😂",
+    "answers": ["ted"],
+    "year": 2012,
+    "genre": ["Comedy"],
+    "difficulty": "Medium",
+    "explanation": "Teddy bear, marijuana, beer, adult humor."
+  },
+  {
+    "id": "12yr-2013-hd",
+    "emojis": "⛓️🌾😢🎻",
+    "answers": ["12 years a slave"],
+    "year": 2013,
+    "genre": ["Drama", "History"],
+    "difficulty": "Hard",
+    "explanation": "Slavery, cotton fields, suffering, violin."
+  },
+  {
+    "id": "wolf-2013-md",
+    "emojis": "💰📈💊🎉",
+    "answers": ["the wolf of wall street", "wolf of wall street"],
+    "year": 2013,
+    "genre": ["Drama", "Comedy"],
+    "difficulty": "Medium",
+    "explanation": "Money, stocks, drugs, excess partying."
+  },
+  {
+    "id": "her-2013-md",
+    "emojis": "💻❤️🎧👂",
+    "answers": ["her"],
+    "year": 2013,
+    "genre": ["Romance", "Sci-Fi"],
+    "difficulty": "Medium",
+    "explanation": "Computer, love, headphones, voice AI."
+  },
+  {
+    "id": "capt-2014-md",
+    "emojis": "🛡️⭐🔴🔵",
+    "answers": ["captain america the winter soldier", "winter soldier"],
+    "year": 2014,
+    "genre": ["Action", "Superhero"],
+    "difficulty": "Medium",
+    "explanation": "Shield, star, red white and blue, Marvel."
+  },
+  {
+    "id": "guar-2014-md",
+    "emojis": "🎵🎸🌌🦝",
+    "answers": ["guardians of the galaxy", "guardians"],
+    "year": 2014,
+    "genre": ["Sci-Fi", "Action"],
+    "difficulty": "Medium",
+    "explanation": "Awesome mix, guitar, space, Rocket raccoon."
+  },
+  {
+    "id": "gone-2014-md",
+    "emojis": "📖👫💔😱",
+    "answers": ["gone girl"],
+    "year": 2014,
+    "genre": ["Thriller", "Mystery"],
+    "difficulty": "Medium",
+    "explanation": "Diary, marriage, missing, twist."
+  },
+  {
+    "id": "brdm-2014-md",
+    "emojis": "🥁🎶😤👨‍🏫",
+    "answers": ["whiplash"],
+    "year": 2014,
+    "genre": ["Drama", "Music"],
+    "difficulty": "Medium",
+    "explanation": "Drums, music, intense, abusive teacher."
+  },
+  {
+    "id": "bigH-2014-md",
+    "emojis": "🤖⚕️🎈❤️",
+    "answers": ["big hero 6"],
+    "year": 2014,
+    "genre": ["Animation", "Action"],
+    "difficulty": "Medium",
+    "explanation": "Robot Baymax, healthcare, balloon body, friendship."
+  },
+  {
+    "id": "lego-2014-ez",
+    "emojis": "🧱👷‍♂️🏗️✨",
+    "answers": ["the lego movie", "lego movie"],
+    "year": 2014,
+    "genre": ["Animation", "Comedy"],
+    "difficulty": "Easy",
+    "explanation": "Lego bricks, construction worker, building, everything is awesome."
+  },
+  {
+    "id": "amsnip-2014-md",
+    "emojis": "🎯🔫🪖🇺🇸",
+    "answers": ["american sniper"],
+    "year": 2014,
+    "genre": ["War", "Biography"],
+    "difficulty": "Medium",
+    "explanation": "Sniper scope, rifle, military, Chris Kyle."
+  },
+  {
+    "id": "edge-2014-md",
+    "emojis": "👽⏰🔁💥",
+    "answers": ["edge of tomorrow", "live die repeat"],
+    "year": 2014,
+    "genre": ["Sci-Fi", "Action"],
+    "difficulty": "Medium",
+    "explanation": "Aliens, time loop, repeat day, battle."
+  },
+  {
+    "id": "bird-2014-md",
+    "emojis": "🥁🎭😢🎬",
+    "answers": ["birdman"],
+    "year": 2014,
+    "genre": ["Drama", "Comedy"],
+    "difficulty": "Medium",
+    "explanation": "Drums, theater, washed-up actor, one-shot film."
+  },
+  {
+    "id": "fury-2014-md",
+    "emojis": "🪖🚜💣🔥",
+    "answers": ["fury"],
+    "year": 2014,
+    "genre": ["War", "Action"],
+    "difficulty": "Medium",
+    "explanation": "Tank crew, Sherman tank, WWII, battles."
+  },
+  {
+    "id": "john-2014-md",
+    "emojis": "🔫🐕💔😡",
+    "answers": ["john wick"],
+    "year": 2014,
+    "genre": ["Action", "Thriller"],
+    "difficulty": "Medium",
+    "explanation": "Gun, puppy death, revenge, assassin."
+  },
+  {
+    "id": "reve-2015-hd",
+    "emojis": "🐻🏔️❄️😡",
+    "answers": ["the revenant", "revenant"],
+    "year": 2015,
+    "genre": ["Adventure", "Drama"],
+    "difficulty": "Hard",
+    "explanation": "Bear attack, mountains, snow, survival revenge."
+  },
+  {
+    "id": "room-2015-md",
+    "emojis": "🚪🔒👦💡",
+    "answers": ["room"],
+    "year": 2015,
+    "genre": ["Drama", "Thriller"],
+    "difficulty": "Medium",
+    "explanation": "Captivity, locked room, boy, escape."
+  },
+  {
+    "id": "insd-2015-ez",
+    "emojis": "🧠😢😡😨🤮",
+    "answers": ["inside out"],
+    "year": 2015,
+    "genre": ["Animation", "Family"],
+    "difficulty": "Easy",
+    "explanation": "Emotions: Joy, Sadness, Anger, Fear, Disgust."
+  },
+  {
+    "id": "mart-2015-md",
+    "emojis": "🥔👨‍🚀🔴📻",
+    "answers": ["the martian", "martian"],
+    "year": 2015,
+    "genre": ["Sci-Fi", "Adventure"],
+    "difficulty": "Medium",
+    "explanation": "Potatoes, astronaut, Mars, communication."
+  },
+  {
+    "id": "spot-2015-md",
+    "emojis": "💰🏦🌃💼",
+    "answers": ["spotlight"],
+    "year": 2015,
+    "genre": ["Drama", "Thriller"],
+    "difficulty": "Medium",
+    "explanation": "Investigation, Catholic Church scandal, Boston Globe."
+  },
+  {
+    "id": "anti-2016-md",
+    "emojis": "🦸‍♂️🐜🔬💪",
+    "answers": ["ant-man"],
+    "year": 2015,
+    "genre": ["Action", "Superhero"],
+    "difficulty": "Medium",
+    "explanation": "Shrinking superhero, ant, science, heist."
+  },
+  {
+    "id": "zoon-2016-ez",
+    "emojis": "🐰🦊🏙️👮‍♀️",
+    "answers": ["zootopia", "zootropolis"],
+    "year": 2016,
+    "genre": ["Animation", "Comedy"],
+    "difficulty": "Easy",
+    "explanation": "Rabbit Judy, fox Nick, animal city, cop."
+  },
+  {
+    "id": "moon-2016-md",
+    "emojis": "🌙🌟👦🎻",
+    "answers": ["moonlight"],
+    "year": 2016,
+    "genre": ["Drama"],
+    "difficulty": "Medium",
+    "explanation": "Coming of age, Miami, identity, three chapters."
+  },
+  {
+    "id": "arrv-2016-md",
+    "emojis": "👽🗣️⏰📝",
+    "answers": ["arrival"],
+    "year": 2016,
+    "genre": ["Sci-Fi", "Drama"],
+    "difficulty": "Medium",
+    "explanation": "Aliens, language, time perception, linguist."
+  },
+  {
+    "id": "lala-2016-md",
+    "emojis": "🎵💃🌃⭐",
+    "answers": ["la la land"],
+    "year": 2016,
+    "genre": ["Musical", "Romance"],
+    "difficulty": "Medium",
+    "explanation": "Music, dancing, Los Angeles, stars, dreams."
   }
 ]
 
