@@ -408,32 +408,6 @@
                         </p>
                     </header>
                     
-                    {/* Control Bar */}
-                    <div className="max-w-6xl mx-auto mb-6 flex flex-wrap justify-center items-center gap-2 bg-black/30 p-4 rounded-lg border-2 border-retro-purple">
-                        <button
-                            onClick={handleNewGame}
-                            className="px-4 py-2 bg-retro-cyan text-white text-xs font-pixel rounded hover:bg-cyan-600 transition"
-                        >
-                            New Game
-                        </button>
-                        <button
-                            onClick={() => isDailyMode ? loadPuzzles() : loadDailyPuzzle()}
-                            className={`px-4 py-2 text-xs font-pixel rounded transition ${
-                                isDailyMode 
-                                    ? 'bg-retro-yellow text-black hover:bg-yellow-600' 
-                                    : 'bg-gray-700 text-white hover:bg-gray-600'
-                            }`}
-                        >
-                            {isDailyMode ? 'Random Mode' : 'Daily Mode'}
-                        </button>
-                        <button
-                            onClick={() => setSoundEnabled(!soundEnabled)}
-                            className="px-4 py-2 bg-gray-700 text-white text-xs font-pixel rounded hover:bg-gray-600 transition"
-                        >
-                            {soundEnabled ? '🔊' : '🔇'}
-                        </button>
-                    </div>
-                    
                     {/* Main Game Layout */}
                     <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-6">
                         {/* LEFT: Puzzle Card */}
